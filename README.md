@@ -46,6 +46,3 @@ php artisan route:list
 php artisan migrate:fresh --seed
 ```
 
-## Course
-
-Web Development — March 2026
